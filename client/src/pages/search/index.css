@@ -1,0 +1,7 @@
+.ant-form-item-required:before {
+  display: none !important;
+}
+.ant-select-multiple .ant-select-selection-overflow {
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
